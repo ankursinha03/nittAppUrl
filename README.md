@@ -1,1 +1,1 @@
-# nittAppUrl
+# NITT APP BASE URL
